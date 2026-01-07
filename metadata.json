@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CelebVoice Pro",
+  "description": "Premium AI-powered voiceover platform specifically designed for high-engagement celebrity news and entertainment reporting. Features advanced script generation and multi-speaker TTS capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
